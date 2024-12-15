@@ -1,4 +1,5 @@
 (function(Ff,b = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",OFF = 77) {
+    console.log("v.2.9")
     function fromB(str) {
         let bb = b.length;
         let v = 0;
