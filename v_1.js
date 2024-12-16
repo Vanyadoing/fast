@@ -1,5 +1,5 @@
 (function(Ff,b = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",OFF = 77) {
-    console.log('1.9');
+    console.log('1.55');
     function fromB(str) {
         let bb = b.length;
         let v = 0;
